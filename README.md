@@ -1,9 +1,13 @@
-# React + Vite
+<h1>Chat_App</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+I've designed and coded a responsive Chat app, and it's ready to explore!
 
-Currently, two official plugins are available:
+🔸 Project Name: [Chat app]
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-# Chat_App
+🔸 Technologies Used: React, Vite, Firebase
+
+🔸 Project Description: This project, which I designed and coded from scratch, works flawlessly on various devices, from mobile phones to desktop computers. In this project, I integrated Firebase into an application I developed using the React library. I used Firebase Authentication to log in users, providing secure session management. I also created a chat application where users can communicate in different rooms. I provided real-time data synchronization using Firebase Firestore, thus providing instant messaging.
+
+<h2>Screen_Shoot</h2>
+
+![](screen_chat_app.gif)
